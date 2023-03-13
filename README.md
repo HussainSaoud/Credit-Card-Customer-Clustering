@@ -35,7 +35,6 @@ I tried three algorithms: Kmeans , Brich , DBSCAN. First time with RobustScaler 
 
 -write the observations I get from the plots and choose the best algorithm
 
-You can check the project on GitHub : 
 
 
 
